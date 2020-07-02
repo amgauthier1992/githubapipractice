@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+label {
+    font-size: 30px;
+}
+
+#search-handle {
+    padding: 8px;
+    width: 225px;
+    margin-left: 5px;
+}
+
+button {
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.hidden {
+    display: none;
+}
